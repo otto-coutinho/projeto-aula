@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "node.js": "^0.0.1-security",
+    "sqlite3": "^5.1.6"
+  },
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otto",
+  "license": "ISC",
+  "description": "Servidor Web con Node.js"
+}
